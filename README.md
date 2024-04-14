@@ -1,0 +1,1 @@
+# swayfy_translation
