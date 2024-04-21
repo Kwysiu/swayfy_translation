@@ -1,0 +1,19 @@
+{
+    "settings": "Ustawienia",
+    "language": "Język",
+    "admin": "Administrator",
+    "developer": "Developer",
+    "logout": "Wyloguj się",
+    "resetapitoken": "Zresetuj token API",
+    "adminpanel": "Panel administracji",
+    "checkuser": "Sprawdź użytkownika",
+    "createupdate": "Stwórz aktualizację",
+    "serversel": "Wybierz serwer",
+    "checkserver": "Zobacz ustawienia",
+    "chat": "Czat administracji",
+    "wallet": "Saldo",
+    "transfer": "Przelew",
+    "leaderboard": "Ranking",
+    "collectdaily": "Odbierz codzienny prezent",
+    "economy": "Ekonomia"
+}

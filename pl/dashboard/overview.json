@@ -1,0 +1,11 @@
+{
+    "levels": "Poziomy",
+    "save": "Zapisz",
+    "saved": "Zapisano!",
+    "error": "Błąd!",
+    "dashboard": "Panel",
+    "overview": "Zestawienie",
+    "selectserver": "Wybierz serwer",
+    "connectedtows": "Połączono z websocket",
+    "actionnotpermited": "Akcja nie dozwolona!"
+}

@@ -1,0 +1,16 @@
+{
+    "levels": "Levels",
+    "save": "Save",
+    "saved": "Saved!",
+    "error": "Error!",
+    "dashboard": "Dashboard",
+    "overview": "Overview",
+    "selectserver": "Select Server",
+    "connectedtows": "Connected to websocket",
+    "actionnotpermited": "Action not permited!",
+    "scallinginfo": "Level scaling - the higher the value is, the more exp is needed for each level",
+    "scalling": "Scalling",
+    "cooldown": "Cooldown",
+    "minxp": "Minimum XP",
+    "maxxp": "Maximum XP"
+}

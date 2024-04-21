@@ -1,0 +1,21 @@
+{
+
+    "settings": "الاعدادات",
+    "language": "اللغة",
+    "admin": "الادارة",
+    "developer": "بر",
+    "logout": "تسجيل خروج",
+    "resetapitoken": "اعادة توكن API",
+    "adminpanel": "قائمة الادارة",
+    "checkuser": "افحص المستخدم",
+    "createupdate": "اصنع تحديث",
+    "serversel": "اختار سيرفر",
+    "checkserver": "اعدادات الرؤية",
+    "chat": "شات الادمن",
+    "wallet": "محفظة",
+    "transfer": "تحويل",
+    "leaderboard": "لوحة القيادة ",
+    "collectdaily": "تحصيل اليومي",
+    "economy": "اقتصاد "
+
+}
