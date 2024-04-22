@@ -1,0 +1,16 @@
+{
+    "levels": "Rovnje",
+    "save": "Zapisaj",
+    "saved": "Zapisano!",
+    "error": "Greška!",
+    "dashboard": "Tablica",
+    "overview": "Pregled",
+    "selectserver": "Izberi serwer",
+    "connectedtows": "Spojeno z websocket",
+    "actionnotpermited": "Dějstvo ne dozvoljeno!",
+    "scallinginfo": "Skalovanje rovnjev - čim večja vrednost, tim več doświčenja je potrebno na vsaki rovnji",
+    "scalling": "Skalovanje",
+    "cooldown": "Zpožděnje",
+    "minxp": "Minimalne XP",
+    "maxxp": "Maksimalne XP"
+}
