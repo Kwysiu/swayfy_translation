@@ -1,0 +1,19 @@
+{
+    "settings": "Nastavenja",
+    "language": "Język",
+    "admin": "Admin",
+    "developer": "Razvijatelj",
+    "logout": "Odloguj se",
+    "resetapitoken": "Resetuj API token",
+    "adminpanel": "Admin tablica",
+    "checkuser": "Prověri korisnika",
+    "createupdate": "Stvori aktualizaciju",
+    "serversel": "Izberi serwer",
+    "checkserver": "Prověri nastavenja",
+    "chat": "Admin čat",
+    "wallet": "Saldo",
+    "transfer": "Převod",
+    "leaderboard": "Rang lista",
+    "collectdaily": "Sberaj dnevni dar",
+    "economy": "Ekonomija"
+}
