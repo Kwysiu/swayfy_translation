@@ -1,8 +1,7 @@
+# Swayfy Translation
 
 <div align="center">
-<img src="https://cdn.swayfy.xyz/logo.png" alt="Swayfy" style="width: 15%;" />
-  
-# Swayfy Translation
+<img src="https://cdn.swayfy.xyz/mniej_depresyjne_tlo_swayfy_uwu.png" alt="Swayfy" style="width: 15%;" />
 </div>
                                               
                                         
