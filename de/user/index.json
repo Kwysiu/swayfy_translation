@@ -1,0 +1,14 @@
+{
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "admin": "Admin",
+    "developer": "Entwickler",
+    "logout": "Ausloggen",
+    "resetapitoken": "Setze API-Token zurück",
+    "adminpanel": "Adminpanele",
+    "checkuser": "Überprüfe Benutzer",
+    "createupdate": "Update erstellen",
+    "serversel": "Serverauswahl",
+    "checkserver": "Ansichtseinstellungen",
+    "chat": "Adminchat"
+}

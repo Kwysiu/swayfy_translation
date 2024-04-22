@@ -1,0 +1,11 @@
+{
+    "levels": "Level",
+    "save": "Speichern",
+    "saved": "Gespeichert!",
+    "error": "Fehler!",
+    "dashboard": "Dashboard",
+    "overview": "Übersicht",
+    "selectserver": "Serverauswahl",
+    "connectedtows": "Verbunden mit Websocket",
+    "actionnotpermited": "Nicht erlaubte Aktion!"
+}
