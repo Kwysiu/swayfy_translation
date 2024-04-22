@@ -1,0 +1,11 @@
+{
+    "levels": "Rovnje",
+    "save": "Zapisaj",
+    "saved": "Zapisano!",
+    "error": "Greška!",
+    "dashboard": "Tablica",
+    "overview": "Pregled",
+    "selectserver": "Izberi serwer",
+    "connectedtows": "Spojeno z websocket",
+    "actionnotpermited": "Dějstvo ne dozvoljeno!"
+}
