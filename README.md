@@ -13,6 +13,7 @@
 | [pl](/pl) | Polski    | @patryk_patryk_5 | [@PatrykPatryk5](https://github.com/PatrykPatryk5)|
 | [ar](/ar) | العربية      | @osama_et        | [@Osamaswayfy](https://github.com/Osamaswayfy)    |
 | [de](/de) | Deutsh    | @bertraun        | [@BerTram-at](https://github.com/BerTram-at)      |
+| [es](/es) | Español   | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema)  |
 
 
 
