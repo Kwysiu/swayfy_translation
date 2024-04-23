@@ -11,9 +11,9 @@
     "serversel": "Serverauswahl",
     "checkserver": "Ansichtseinstellungen",
     "chat": "Adminchat",
-    "wallet": "Wallet",
-    "transfer": "Transfer",
-    "leaderboard": "Leaderboard",
-    "collectdaily": "Collect Daily",
-    "economy": "Economy"
+    "wallet": "Brieftasche",
+    "transfer": "Übertragung",
+    "leaderboard": "Übertragung",
+    "collectdaily": "Täglich sammeln",
+    "economy": "Wirtschaft"
 }
