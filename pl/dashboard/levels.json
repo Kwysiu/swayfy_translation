@@ -7,7 +7,7 @@
     "overview": "Zestawienie",
     "selectserver": "Wybierz serwer",
     "connectedtows": "Połączono z websocket",
-    "actionnotpermited": "Akcja nie dozwolona!",
+    "actionnotpermited": "Nie wolno tak!",
     "scallinginfo": "Skalowanie poziomów - im wyższa wartość, tym więcej doświadczenia jest potrzebne na każdy poziom",
     "scalling": "Skalowanie",
     "cooldown": "Opóźnienie",
