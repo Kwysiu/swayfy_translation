@@ -10,5 +10,10 @@
     "createupdate": "Update erstellen",
     "serversel": "Serverauswahl",
     "checkserver": "Ansichtseinstellungen",
-    "chat": "Adminchat"
+    "chat": "Adminchat",
+    "wallet": "Brieftasche",
+    "transfer": "Übertragung",
+    "leaderboard": "Bestenliste",
+    "collectdaily": "Täglich sammeln",
+    "economy": "Wirtschaft"
 }
