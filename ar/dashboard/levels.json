@@ -26,6 +26,9 @@
 
     "minxp": "اقل XP",
 
-    "maxxp": "اعلى XP"
+    "maxxp": "اعلى XP",
+    "globalboost": "Global Boost",
+    "threadxp": "Thread Xp",
+    "forumxp": "Forum Xp"
 
 }
