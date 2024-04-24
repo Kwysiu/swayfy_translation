@@ -7,5 +7,11 @@
     "overview": "Zestawienie",
     "selectserver": "Wybierz serwer",
     "connectedtows": "Połączono z websocket",
-    "actionnotpermited": "Akcja nie dozwolona!"
+    "actionnotpermited": "Akcja nie dozwolona!",
+    "messages": "Messages",
+    "numberofmessages": "Number of Messages",
+    "members": "Members",
+    "memberscount": "Members Count",
+    "memberflow": "Memberflow",
+    "hour": "Hour"
 }
