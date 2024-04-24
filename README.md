@@ -1,4 +1,4 @@
-# Swayfy Translation
+# Swayfy Translations
 
 <div align="center">
 <img src="https://cdn.swayfy.xyz/tlo-transparent.png" alt="Swayfy"  />
