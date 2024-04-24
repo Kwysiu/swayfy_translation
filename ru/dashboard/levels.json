@@ -12,5 +12,8 @@
     "scalling": "Scalling",
     "cooldown": "Cooldown",
     "minxp": "Minimum XP",
-    "maxxp": "Maximum XP"
+    "maxxp": "Maximum XP",
+    "globalboost": "Global Boost",
+    "threadxp": "Thread Xp",
+    "forumxp": "Forum Xp"
 }
