@@ -1,0 +1,19 @@
+{
+    "settings": "Settings",
+    "language": "Language",
+    "admin": "Admin",
+    "developer": "Developer",
+    "logout": "Logout",
+    "resetapitoken": "Reset API token",
+    "adminpanel": "Admin panel",
+    "checkuser": "Check user",
+    "createupdate": "Create Update",
+    "serversel": "Select Server",
+    "checkserver": "Settings View",
+    "chat": "Admin Chat",
+    "wallet": "Wallet",
+    "transfer": "Transfer",
+    "leaderboard": "Leaderboard",
+    "collectdaily": "Collect Daily",
+    "economy": "Economy"
+}

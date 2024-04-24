@@ -1,0 +1,17 @@
+{
+    "levels": "Levels",
+    "save": "Save",
+    "saved": "Saved!",
+    "error": "Error!",
+    "dashboard": "Dashboard",
+    "overview": "Overview",
+    "selectserver": "Select Server",
+    "connectedtows": "Connected to websocket",
+    "actionnotpermited": "Action not permited!",
+    "messages": "Messages",
+    "numberofmessages": "Number of Messages",
+    "members": "Members",
+    "memberscount": "Members Count",
+    "memberflow": "Memberflow",
+    "hour": "Hour"
+}
