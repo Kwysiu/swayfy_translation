@@ -16,6 +16,12 @@
 
     "connectedtows": "اتصل ل اتصال الشبكة",
 
-    "actionnotpermited": "الامر ليس مسموح به!"
+    "actionnotpermited": "الامر ليس مسموح به!",
+     "messages": "Messages",
+    "numberofmessages": "Number of Messages",
+    "members": "Members",
+    "memberscount": "Members Count",
+    "memberflow": "Memberflow",
+    "hour": "Hour"
 
 }
