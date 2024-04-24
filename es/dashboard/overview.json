@@ -1,11 +1,11 @@
 {
-    "levels": "Levels",
-    "save": "Save",
-    "saved": "Saved!",
-    "error": "Error!",
-    "dashboard": "Dashboard",
-    "overview": "Overview",
-    "selectserver": "Select Server",
-    "connectedtows": "Connected to websocket",
-    "actionnotpermited": "Action not permited!"
+    "levels": "Niveles",
+    "save": "Guardar",
+    "saved": "¡Guardado!",
+    "error": "¡Error!",
+    "dashboard": "Tablero",
+    "overview": "Resumen",
+    "selectserver": "Seleccionar Servidor",
+    "connectedtows": "Conectado al websocket",
+    "actionnotpermited": "¡Acción no permitida!"
 }
