@@ -12,5 +12,8 @@
     "scalling": "Escalado",
     "cooldown": "Enfriamiento",
     "minxp": "EXP mínima",
-    "maxxp": "EXP máxima"
+    "maxxp": "EXP máxima",
+    "globalboost": "Global Boost",
+    "threadxp": "Thread Xp",
+    "forumxp": "Forum Xp"
 }
