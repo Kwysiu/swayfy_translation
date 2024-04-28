@@ -9,5 +9,9 @@
     "connectedtows": "Połączono z websocket",
     "actionnotpermited": "Akcja nie dozwolona!",
     "messages": "Wiadomości",
-    "website": "Website"
+    "numberofmessages": "Liczba wiadomości",
+    "members": "Członkowie",
+    "memberscount": "Liczba członków",
+    "memberflow": "Przepływ członków",
+    "hour": "Godzina"
 }
