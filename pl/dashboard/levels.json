@@ -13,10 +13,7 @@
     "cooldown": "Opóźnienie",
     "minxp": "Minimalne XP",
     "maxxp": "Maksymalne XP",
-     "globalboost": "Global Boost",
-    "threadxp": "Thread Xp",
-    "forumxp": "Forum Xp",
-    "globalboost": "Boost Globalny",
-    "threadxp": "Wątek Xp",
-    "forumxp": "Forum Xp"
+    "globalboost": "Globalne Wzmocnienie",
+    "threadxp": "XP z Wątku",
+    "forumxp": "XP z Forum"
 }
