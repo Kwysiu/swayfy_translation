@@ -8,10 +8,10 @@
     "selectserver": "Wybierz serwer",
     "connectedtows": "Połączono z websocket",
     "actionnotpermited": "Akcja nie dozwolona!",
-    "messages": "Messages",
-    "numberofmessages": "Number of Messages",
-    "members": "Members",
-    "memberscount": "Members Count",
-    "memberflow": "Memberflow",
-    "hour": "Hour"
+    "messages": "Wiadomości",
+    "numberofmessages": "Liczba wiadomości",
+    "members": "Członkowie",
+    "memberscount": "Liczba członków",
+    "memberflow": "Przepływ członków",
+    "hour": "Godzina"
 }
