@@ -8,11 +8,12 @@
     "selectserver": "Select Server",
     "connectedtows": "Connected to websocket",
     "actionnotpermited": "Action not permited!",
-    "messages": "Messages",
-    "numberofmessages": "Number of Messages",
-    "members": "Members",
-    "memberscount": "Members Count",
-    "memberflow": "Memberflow",
-    "hour": "Hour",
-    "website": "Website"
+    "website": "Website",
+    "websitelink": "Website link",
+    "maincolor": "Main color",
+    "accentcolor": "Accent Color",
+    "textcolor": "Text Color",
+    "buttoncontent": "Button content",
+    "description": "Description",
+    "invitelink": "Invite link"
 }
