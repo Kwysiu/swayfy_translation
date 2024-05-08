@@ -15,5 +15,13 @@
     "textcolor": "Text Color",
     "buttoncontent": "Button content",
     "description": "Description",
-    "invitelink": "Invite link"
+    "invitelink": "Invite link",
+    "newline": "New line",
+    "servername": "Server name",
+    "membercount": "Membercount",
+    "bold": "Bold",
+    "italic": "Italic",
+    "bolditalic": "Bold Italic",
+    "rolecount": "Rolecount",
+    "channelcount": "Channelcount",
 }
