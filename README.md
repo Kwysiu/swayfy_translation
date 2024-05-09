@@ -14,6 +14,7 @@
 | [ar](/ar) | العربية      | @osama_et        | [@Osamaswayfy](https://github.com/Osamaswayfy)    |
 | [de](/de) | Deutsh    | @bertraun        | [@BerTram-at](https://github.com/BerTram-at)      |
 | [es](/es) | Español   | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema)  |
+| [ua](/ua) | Українська| @mr.negative4696 |                     n/a                           |
 
 
 
