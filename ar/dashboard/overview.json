@@ -1,21 +1,12 @@
 {
-
     "levels": "ليفلات",
-
     "save": "حفظ",
-
     "saved": "تم الحفظ!",
-
     "error": "خطأ!",
-
     "dashboard": "قائمة التحكم",
-
     "overview": "رؤية",
-
     "selectserver": "اختار السيرفر",
-
     "connectedtows": "اتصل ل اتصال الشبكة",
-
     "actionnotpermited": "الامر ليس مسموح به!",
      "messages": "Messages",
     "numberofmessages": "Number of Messages",
@@ -23,6 +14,6 @@
     "memberscount": "Members Count",
     "memberflow": "Memberflow",
     "hour": "Hour",
-    "website": "Website"
-
+    "website": "Website",
+    "logs": "Logs"
 }
