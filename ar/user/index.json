@@ -1,5 +1,4 @@
 {
-
     "settings": "الاعدادات",
     "language": "اللغة",
     "admin": "الادارة",
@@ -16,6 +15,6 @@
     "transfer": "تحويل",
     "leaderboard": "لوحة القيادة ",
     "collectdaily": "تحصيل اليومي",
-    "economy": "اقتصاد "
-
+    "economy": "اقتصاد ",
+    "lookupserver": "Lookup Server"
 }
