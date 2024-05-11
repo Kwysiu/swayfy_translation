@@ -14,11 +14,7 @@
 # EN
 None
 # ES
-- es/dashboard/levels.json - line: 20
-- es/dashboard/logs.json - all
-- es/dashboard/overview.json - lines: 11-18
-- es/dashboard/website.json - all
-- es/user/index.json - line: 19
+None
 # FR
 all, but no French translator
 # PL
