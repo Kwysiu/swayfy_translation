@@ -1,35 +1,21 @@
 {
-
     "levels": "ليفلات",
-
     "save": "احفظ",
-
     "saved": "تم الحفظ!",
-
     "error": "خطأ!",
-
     "dashboard": "لوحة القيادة",
-
     "overview": "الرؤية",
-
     "selectserver": "اختار السيرفر",
-
     "connectedtows": "متصل ل  مدخل الشبكة ",
-
     "actionnotpermited": "الامر ليس مسموح به !",
-
     "scallinginfo": "تحجيم المستوى - كلما ارتفعت القيمة، زادت الحاجة إلى الخبرة لكل مستوى ",
-
     "scalling": "التحجيم",
-
     "cooldown": "ترطيب",
-
     "minxp": "اقل XP",
-
     "maxxp": "اعلى XP",
     "globalboost": "Global Boost",
     "threadxp": "Thread Xp",
     "forumxp": "Forum Xp",
-    "website": "Website"
-
+    "website": "Website",
+    "logs": "Logs"
 }
