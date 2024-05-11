@@ -8,12 +8,12 @@
     "selectserver": "Seleccionar Servidor",
     "connectedtows": "Conectado al websocket",
     "actionnotpermited": "¡Acción no permitida!",
-    "messages": "Messages",
-    "numberofmessages": "Number of Messages",
-    "members": "Members",
-    "memberscount": "Members Count",
-    "memberflow": "Memberflow",
-    "hour": "Hour",
-    "website": "Website",
-    "logs": "Logs"
+    "messages": "Mensajes",
+    "numberofmessages": "Número de mensajes",
+    "members": "Miembros",
+    "memberscount": "Número de Miembros",
+    "memberflow": "Flujo de Miembros",
+    "hour": "Hora",
+    "website": "Sitio Web",
+    "logs": "Registros"
 }
