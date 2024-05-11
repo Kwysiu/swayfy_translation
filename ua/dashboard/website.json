@@ -23,5 +23,6 @@
     "italic": "Курсив",
     "bolditalic": "Жирний курсив",
     "rolecount": "Кількість ролей",
-    "channelcount": "Кількість каналів"
+    "channelcount": "Кількість каналів",
+    "logs": "Logs"
 }
