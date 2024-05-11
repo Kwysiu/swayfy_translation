@@ -1,0 +1,16 @@
+{
+    "levels": "Poziomy",
+    "save": "Zapisz",
+    "saved": "Zapisano!",
+    "error": "Błąd!",
+    "dashboard": "Dashboard",
+    "overview": "Ogólne",
+    "selectserver": "Wybierz serwer",
+    "connectedtows": "Connected to websocket",
+    "actionnotpermited": "Akcja niedozwolona!",
+    "website": "Strona",
+    "logs": "Logi",
+    "messages": "Wiadomości",
+    "channel": "Kanał",
+    "selectchannel": "Wybierz kanał"
+}
