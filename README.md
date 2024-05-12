@@ -15,9 +15,8 @@
 | [de](/de) | Deutsh    | @bertraun        | [@BerTram-at](https://github.com/BerTram-at)      |
 | [es](/es) | Español   | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema)  |
 | [ua](/ua) | Українська| @mr.negative4696 |                     n/a                           |
-
-
+| [tr](/tr) | Türkçe    | @zonax           | [@xartew](https://github.com/xartew)              |
 
 
 | Coordinator | @oli11gh |
-|-------------|---------|
+|-------------|----------|
