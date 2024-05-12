@@ -21,6 +21,8 @@ all, but no French translator
 None
 # RU
 all
+# TR
+None
 # UA
 - ua/dashboard/levels.json - line: 20
 - ua/dashboard/logs.json - all
