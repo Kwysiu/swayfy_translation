@@ -1,0 +1,16 @@
+{
+    "levels": "Seviyeler",
+    "save": "Kaydet",
+    "saved": "Kaydedildi!",
+    "error": "Hata!",
+    "dashboard": "Kontrol Paneli",
+    "overview": "Genel Bakış",
+    "selectserver": "Sunucu Seç",
+    "connectedtows": "Websocket'e bağlandı",
+    "actionnotpermited": "Eyleme izin verilmedi!",
+    "website": "Web site",
+    "logs": "Kayıtlar",
+    "messages": "Mesajlar",
+    "channel": "Kanal",
+    "selectchannel": "Kanal seç"
+}

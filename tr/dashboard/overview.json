@@ -1,0 +1,19 @@
+{
+    "levels": "Seviyeler",
+    "save": "Kaydet",
+    "saved": "Kaydedildi!",
+    "error": "Hata!",
+    "dashboard": "Kontrol Paneli",
+    "overview": "Genel Bakış",
+    "selectserver": "Sunucu Seç",
+    "connectedtows": "Websocket'e bağlandı",
+    "actionnotpermited": "Eyleme izin verilmedi!",
+    "messages": "Mesajlar",
+    "numberofmessages": "Mesaj Sayısı",
+    "members": "Kişiler",
+    "memberscount": "Kişi Sayısı",
+    "memberflow": "Üye Akışı",
+    "hour": "Saat",
+    "website": "Web site",
+    "logs": "Kayıtlar"
+}

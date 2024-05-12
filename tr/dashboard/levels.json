@@ -1,0 +1,21 @@
+{
+    "levels": "Seviyeler",
+    "save": "Kaydet",
+    "saved": "Kaydedildi!",
+    "error": "Hata!",
+    "dashboard": "Kontrol Paneli",
+    "overview": "Genel Bakış",
+    "selectserver": "Sunucu Seç",
+    "connectedtows": "Websocket'e bağlandı",
+    "actionnotpermited": "Eyleme izin verilmedi!",
+    "scallinginfo": "Seviye ölçeklendirme - değer ne kadar yüksekse, her seviye için o kadar fazla exp gerekir",
+    "scalling": "Ölçeklendirme",
+    "cooldown": "Bekleme Süresi",
+    "minxp": "Minimum XP",
+    "maxxp": "Maksimum XP",
+    "globalboost": "Küresel destek",
+    "threadxp": "Konu Xp",
+    "forumxp": "Forum Xp",
+    "website": "Web site",
+    "logs": "Kayıtlar"
+}

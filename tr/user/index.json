@@ -1,0 +1,20 @@
+{
+    "settings": "Ayarlar",
+    "language": "Dil",
+    "admin": "Yönetici",
+    "developer": "Geliştirici",
+    "logout": "Çıkış",
+    "resetapitoken": "API tokenini sıfırla",
+    "adminpanel": "Yönetici Paneli",
+    "checkuser": "Kişiyi konotol et",
+    "createupdate": "Güncelleme Oluştur",
+    "serversel": "Sunucu Seç",
+    "checkserver": "Ayarları Göster",
+    "chat": "Yönetici Sohbeti",
+    "wallet": "Cüzdan",
+    "transfer": "Transfer",
+    "leaderboard": "Liderlik Tablosu",
+    "collectdaily": "Günlük Topla",
+    "economy": "Ekonomi",
+    "lookupserver": "Sunucu Arama"
+}
