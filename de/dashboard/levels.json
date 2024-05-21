@@ -13,9 +13,9 @@
     "cooldown": "Wartezeit",
     "minxp": "Minimum XP",
     "maxxp": "Maximum XP",
-    "globalboost": "Global Boost",
-    "threadxp": "Thread Xp",
+    "globalboost": "Globaler Aufschwung",
+    "threadxp": "Gewinde Xp",
     "forumxp": "Forum Xp",
     "website": "Website",
-    "logs": "Logs"
+    "logs": "Protokolle"
 }
