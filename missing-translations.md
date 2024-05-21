@@ -6,11 +6,9 @@
 - ar/dashboard/website.json - all
 - ar/user/index.json - line: 19
 # DE
-- de/dashboard/levels.json - lines: 14-20
 - de/dashboard/logs.json - all
 - de/dashboard/overview.json - lines: 11-18
 - de/dashboard/website.json - all
-- de/user/index.json - line: 19
 # EN
 None
 # ES
