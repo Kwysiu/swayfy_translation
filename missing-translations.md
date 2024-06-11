@@ -4,7 +4,6 @@
 - ar/dashboard/logs.json - all
 - ar/dashboard/overview.json - lines: 11-18
 - ar/dashboard/website.json - all
-- ar/user/index.json - line: 19
 # DE
 - de/dashboard/logs.json - all
 - de/dashboard/overview.json - lines: 11-18
