@@ -12,5 +12,7 @@
     "logs": "Logs",
     "messages": "Messages",
     "channel": "Channel",
+    "moderation": "Moderation",
+    "users": "Users",
     "selectchannel": "Select channel"
 }
