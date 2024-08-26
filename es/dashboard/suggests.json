@@ -1,0 +1,21 @@
+{
+  "levels": "Niveles",
+  "save": "Guardar",
+  "saved": "¡Guardado!",
+  "error": "¡Error!",
+  "dashboard": "Tablero",
+  "overview": "Resumen",
+  "selectserver": "Seleccionar Servidor",
+  "connectedtows": "Conectado al websocket",
+  "actionnotpermited": "¡Acción no permitida!",
+  "website": "Sitio Web",
+  "logs": "Registros",
+  "suggestions": "Sugerencias",
+  "channel": "Canal",
+  "selectachannel": "Seleccione un canal",
+  "postmethod": "Método de publicación",
+  "message": "Mensaje",
+  "select": "Seleccionar",
+  "command": "Dominio",
+  "autocomment": "Comentario automático"
+}
