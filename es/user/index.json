@@ -16,5 +16,9 @@
     "leaderboard": "Tabla de líderes",
     "collectdaily": "Recolectar diariamente",
     "economy": "Economía",
-    "lookupserver": "Buscar servidor"
+    "lookupserver": "Buscar servidor",
+    "account": "Cuenta",
+    "balance": "Balance",
+    "addfunds": "Agregar fondos",
+    "api": "API"
 }
