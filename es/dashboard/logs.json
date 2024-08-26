@@ -13,4 +13,12 @@
     "messages": "Mensajes",
     "channel": "Canal",
     "selectchannel": "Seleccionar canal"
+    "roles": "Roles",
+    "server": "Servidor",
+    "automod": "Automod",
+    "tickets": "Entradas",
+    "invites": "Invita",
+    "suggests": "Sugiere",
+    "moderation": "Moderación",
+    "users": "Miembros"
 }
