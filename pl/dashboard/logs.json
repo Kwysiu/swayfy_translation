@@ -12,5 +12,11 @@
     "logs": "Logi",
     "messages": "Wiadomości",
     "channel": "Kanał",
-    "selectchannel": "Wybierz kanał"
+    "selectchannel": "Wybierz kanał",
+    "roles": "Role",
+    "server": "Serwer",
+    "automod": "Automod",
+    "tickets": "Zgłoszenia",
+    "invites": "Zaproszenia",
+    "suggests": "Suggestie"
 }
