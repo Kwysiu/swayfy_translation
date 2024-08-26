@@ -12,9 +12,13 @@
     "checkserver": "Перегляд налаштувань",
     "chat": "Чат адміністратора",
     "wallet": "Гаманець",
-    "transfer": "Transfer",
+    "transfer": "Трансфер",
     "leaderboard": "Передача",
     "collectdaily": "Таблиця лідерів",
     "economy": "Економіка",
-    "lookupserver": "Lookup Server"
+    "lookupserver": "Сервер пошуку",
+    "account": "Обліковий запис",
+    "balance": "Баланс",
+    "addfunds": "Додайте кошти",
+    "api": "API"
 }
