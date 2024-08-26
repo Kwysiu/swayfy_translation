@@ -16,5 +16,9 @@
     "leaderboard": "Liderlik Tablosu",
     "collectdaily": "Günlük Topla",
     "economy": "Ekonomi",
-    "lookupserver": "Sunucu Arama"
+    "lookupserver": "Sunucu Arama",
+    "account": "Hesap",
+    "balance": "Denge",
+    "addfunds": "Para ekle",
+    "api": "API"
 }
