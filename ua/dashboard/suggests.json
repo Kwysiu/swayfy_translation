@@ -1,0 +1,22 @@
+{
+  "levels": "Рівень",
+  "save": "Зберігти",
+  "saved": "Збережені!",
+  "error": "Помилка!",
+  "dashboard": "Панелі",
+  "overview": "Огляд",
+  "selectserver": "Виберіть сервер",
+  "connectedtows": "Підключено до веб-сокета",
+  "actionnotpermited": "Дії заборонені!",
+  "website": "Веб-сторінка",
+  "logs": "Журнали",
+  "suggestions": "Пропозиції",
+  "channel": "Канал",
+  "selectachannel": "Виберіть канал",
+  "postmethod": "Метод посту",
+  "message": "повідомлення",
+  "select": "Виберіть",
+  "command": "Команда",
+  "autocomment": "Автокоментування"
+  
+}
