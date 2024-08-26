@@ -11,8 +11,13 @@
     "website": "Website",
     "logs": "Logs",
     "messages": "Messages",
-    "channel": "Channel",
+    "channel": "Channels",
     "moderation": "Moderation",
     "users": "Users",
-    "selectchannel": "Select channel"
+    "selectchannel": "Select a channel",
+    "roles": "Roles",
+    "server": "Server",
+    "automod": "Automod",
+    "tickets": "Tickets",
+    "invites": "Invites"
 }
