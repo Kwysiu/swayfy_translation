@@ -8,13 +8,17 @@
     "adminpanel": "قائمة الادارة",
     "checkuser": "افحص المستخدم",
     "createupdate": "اصنع تحديث",
-    "serversel": "اختار سيرفر",
-    "checkserver": "اعدادات الرؤية",
-    "chat": "شات الادمن",
     "wallet": "محفظة",
     "transfer": "تحويل",
     "leaderboard": "لوحة القيادة ",
     "collectdaily": "تحصيل اليومي",
     "economy": "اقتصاد ",
-    "lookupserver": "خادم البحث عن الخادم"
+    "lookupserver": "خادم البحث عن الخادم",
+    "account": "حساب",
+    "balance": "توازن",
+    "addfunds": "أضف الأموال",
+    "api": "API",
+    "total": "المجموع",
+    "documentation": "التوثيق",
+    "settingsview": "عرض الإعدادات"
 }
