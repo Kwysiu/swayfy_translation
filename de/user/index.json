@@ -16,5 +16,9 @@
     "leaderboard": "Bestenliste",
     "collectdaily": "Täglich sammeln",
     "economy": "Wirtschaft",
-    "lookupserver": "Nachschlage-Server"
+    "lookupserver": "Nachschlage-Server",
+    "account": "Konto",
+    "balance": "Gleichgewicht",
+    "addfunds": "Geld hinzufügen",
+    "api": "API"
 }
