@@ -13,9 +13,11 @@
     "cooldown": "ترطيب",
     "minxp": "اقل XP",
     "maxxp": "اعلى XP",
-    "globalboost": "Global Boost",
-    "threadxp": "Thread Xp",
-    "forumxp": "Forum Xp",
-    "website": "Website",
-    "logs": "Logs"
+    "globalboost": "دفعة عالمية",
+    "threadxp": "XP من الموضوع",
+    "forumxp": "XP من المنتدى",
+    "website": "موقع إلكتروني",
+    "logs": "سجلات"
+    "levelupchannel": "قناة المستوى الجديد",
+    "suggests": "اقتراحات"
 }
