@@ -19,5 +19,6 @@
     "server": "Server",
     "automod": "Automod",
     "tickets": "Tickets",
-    "invites": "Invites"
+    "invites": "Invites",
+    "suggests": "Suggests"
 }
