@@ -1,0 +1,22 @@
+{
+  "levels": "المستويات",
+  "save": "يحفظ",
+  "saved": "أنقذ!",
+  "error": "خطأ!",
+  "dashboard": "لوحة القيادة",
+  "overview": "ملخص",
+  "selectserver": "حدد الخادم",
+  "connectedtows": "متصل بمقبس الويب",
+  "actionnotpermited": "الإجراء غير مسموح به!",
+  "website": "موقع إلكتروني",
+  "logs": "سجلات",
+  "suggestions": "اقتراحات",
+  "channel": "قناة",
+  "selectachannel": "اختر قناة",
+  "postmethod": "طريقة النشر",
+  "message": "رسالة",
+  "select": "يختار",
+  "command": "يأمر",
+  "autocomment": "تعليق تلقائي"
+  
+}
