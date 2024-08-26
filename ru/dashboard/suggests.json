@@ -1,0 +1,22 @@
+{
+  "levels": "Уровни",
+  "save": "Сохранять",
+  "saved": "Спасено!",
+  "error": "Ошибка!",
+  "dashboard": "Панель управления",
+  "overview": "Обзор",
+  "selectserver": "Выберите сервер",
+  "connectedtows": "Подключен к веб-сокету",
+  "actionnotpermited": "Действие не разрешено!",
+  "website": "Веб-сайт",
+  "logs": "Журналы",
+  "suggestions": "Предложения",
+  "channel": "Канал",
+  "selectachannel": "Выберите канал",
+  "postmethod": "Метод публикации",
+  "message": "Сообщение",
+  "select": "Выбирать",
+  "command": "Команда",
+  "autocomment": "Автокомментарий"
+  
+}
