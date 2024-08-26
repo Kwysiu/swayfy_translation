@@ -8,12 +8,13 @@
     "selectserver": "اختار السيرفر",
     "connectedtows": "اتصل ل اتصال الشبكة",
     "actionnotpermited": "الامر ليس مسموح به!",
-    "messages": "Messages",
-    "numberofmessages": "Number of Messages",
-    "members": "Members",
-    "memberscount": "Members Count",
-    "memberflow": "Memberflow",
-    "hour": "Hour",
-    "website": "Website",
-    "logs": "Logs"
+    "messages": "رسائل",
+    "numberofmessages": "عدد الرسائل",
+    "members": "أعضاء",
+    "memberscount": "عدد الأعضاء",
+    "memberflow": "تدفق الأعضاء",
+    "hour": "ساعة",
+    "website": "موقع إلكتروني",
+    "logs": "السجلات",
+    "suggests": "اقتراح"
 }
