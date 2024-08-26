@@ -1,0 +1,22 @@
+{
+  "levels": "Levele",
+  "save": "Zapisz",
+  "saved": "Zapisano!",
+  "error": "Błąd!",
+  "dashboard": "Panel",
+  "overview": "Ogólne",
+  "selectserver": "Wybierz Serwer",
+  "connectedtows": "Połączono z websocketem",
+  "actionnotpermited": "Akcja niedozwolona!",
+  "website": "Strona",
+  "logs": "Logi",
+  "suggestions": "Sugestie",
+  "channel": "Kanał",
+  "selectachannel": "Wybierz kanał",
+  "postmethod": "Metoda wysłania",
+  "message": "Wiadomość",
+  "select": "Wybierz",
+  "command": "Komenda",
+  "autocomment": "Automatyczny komentarz"
+  
+}
