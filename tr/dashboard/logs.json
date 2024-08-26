@@ -12,5 +12,13 @@
     "logs": "Kayıtlar",
     "messages": "Mesajlar",
     "channel": "Kanal",
-    "selectchannel": "Kanal seç"
+    "selectchannel": "Kanal seç",
+    "roles": "Roles",
+    "server": "Sunucu",
+    "automod": "Otomod",
+    "tickets": "Biletler",
+    "invites": "Davetler",
+    "suggests": "Öneriler",
+    "moderation": "Moderasyon",
+    "users": "Kullanıcılar"
 }
