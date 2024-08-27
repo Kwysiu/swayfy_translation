@@ -1,13 +1,13 @@
 {
-    "levels": "المستويات",
-    "save": "يحفظ",
-    "saved": "أنقذ!",
+    "levels": "ليفلات",
+    "save": "احفظ",
+    "saved": "تم الحفظ!",
     "error": "خطأ!",
     "dashboard": "لوحة القيادة",
-    "overview": "ملخص",
-    "selectserver": "حدد الخادم",
-    "connectedtows": "متصل بمقبس الويب",
-    "actionnotpermited": "الإجراء غير مسموح به!",
+    "overview": "الرؤية",
+    "selectserver": "اختار السيرفر",
+    "connectedtows": "متصل ل  مدخل الشبكة ",
+    "actionnotpermited": "الامر ليس مسموح به !",
     "website": "موقع إلكتروني",
     "websitelink": "رابط الموقع",
     "maincolor": "اللون الرئيسي",
@@ -25,6 +25,6 @@
     "rolecount": "عدد الأدوار",
     "channelcount": "عدد القنوات",
     "logs": "سجلات",
-    "suggests": "يقترح",
+    "suggests": "اقتراحات",
     "moderation": "الاعتدال"
 }
