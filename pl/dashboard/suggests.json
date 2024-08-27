@@ -17,6 +17,7 @@
   "message": "Wiadomość",
   "select": "Wybierz",
   "command": "Komenda",
-  "autocomment": "Automatyczny komentarz"
+  "autocomment": "Automatyczny komentarz",
+  "moderation": "Moderacja"
   
 }
