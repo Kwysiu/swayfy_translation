@@ -17,5 +17,6 @@
   "message": "Mesaj",
   "select": "Seçme",
   "command": "Emretmek",
-  "autocomment": "Otomatik yorum"
+  "autocomment": "Otomatik yorum",
+  "moderation": "Moderasyon"
   }
