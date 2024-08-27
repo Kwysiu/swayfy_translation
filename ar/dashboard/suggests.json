@@ -17,6 +17,7 @@
   "message": "رسالة",
   "select": "يختار",
   "command": "يأمر",
-  "autocomment": "تعليق تلقائي"
+  "autocomment": "تعليق تلقائي",
+  "moderation": "الاعتدال"
   
 }
