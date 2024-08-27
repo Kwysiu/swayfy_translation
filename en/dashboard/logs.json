@@ -20,5 +20,6 @@
     "automod": "Automod",
     "tickets": "Tickets",
     "invites": "Invites",
-    "suggests": "Suggests"
+    "suggests": "Suggests",
+    "moderation": "Moderation"
 }
