@@ -18,5 +18,5 @@
 | [tr](/tr) | Türkçe    | @zonax           | [@xartew](https://github.com/xartew)              |
 
 
-| Coordinator | @oli11gh |
-|-------------|----------|
+| Coordinator | @oli11gh & @3wus |
+|-------------|------------------|
