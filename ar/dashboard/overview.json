@@ -1,13 +1,13 @@
 {
     "levels": "ليفلات",
-    "save": "حفظ",
+    "save": "احفظ",
     "saved": "تم الحفظ!",
     "error": "خطأ!",
-    "dashboard": "قائمة التحكم",
-    "overview": "رؤية",
+    "dashboard": "لوحة القيادة",
+    "overview": "الرؤية",
     "selectserver": "اختار السيرفر",
-    "connectedtows": "اتصل ل اتصال الشبكة",
-    "actionnotpermited": "الامر ليس مسموح به!",
+    "connectedtows": "متصل ل  مدخل الشبكة ",
+    "actionnotpermited": "الامر ليس مسموح به !",
     "messages": "رسائل",
     "numberofmessages": "عدد الرسائل",
     "members": "أعضاء",
@@ -15,7 +15,7 @@
     "memberflow": "تدفق الأعضاء",
     "hour": "ساعة",
     "website": "موقع إلكتروني",
-    "logs": "السجلات",
-    "suggests": "اقتراح",
+    "logs": "سجلات",
+    "suggests": "اقتراحات",
     "moderation": "الاعتدال"
 }
