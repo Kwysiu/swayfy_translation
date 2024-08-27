@@ -10,13 +10,14 @@
   "actionnotpermited": "Nicht erlaubte Aktion!",
   "website": "Website",
   "logs": "Protokolles"
-  "suggestions": "Vorschläge"",
+  "suggestions": "Vorschläge",
   "channel": "Kanal",
   "selectachannel": "Wählen Sie einen Kanal aus",
   "postmethod": "Post-Methode",
   "message": "Nachricht",
   "select": "Wählen",
   "command": "Befehl",
-  "autocomment": "Automatischer Kommentar"
+  "autocomment": "Automatischer Kommentar",
+  "modeartion": "Mäßigung"
   
 }
