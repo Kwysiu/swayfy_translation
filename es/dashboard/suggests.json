@@ -17,5 +17,6 @@
   "message": "Mensaje",
   "select": "Seleccionar",
   "command": "Dominio",
-  "autocomment": "Comentario automático"
+  "autocomment": "Comentario automático",
+  "moderation": "Moderación"
 }
