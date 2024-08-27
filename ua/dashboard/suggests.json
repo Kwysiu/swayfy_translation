@@ -17,6 +17,7 @@
   "message": "повідомлення",
   "select": "Виберіть",
   "command": "Команда",
-  "autocomment": "Автокоментування"
+  "autocomment": "Автокоментування",
+  "moderation": "Модерація"
   
 }
