@@ -12,12 +12,12 @@
   "logs": "Protokolles"
   "suggestions": "Vorschläge",
   "channel": "Kanal",
-  "selectachannel": "Wählen Sie einen Kanal aus",
+  "selectachannel": "Kanal auswählen",
   "postmethod": "Post-Methode",
-  "message": "Nachricht",
+  "message": "Nachrichten",
   "select": "Wählen",
   "command": "Befehl",
   "autocomment": "Automatischer Kommentar",
-  "modeartion": "Mäßigung"
+  "moderation": "Mäßigung"
   
 }
