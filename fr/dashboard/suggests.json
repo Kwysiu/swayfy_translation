@@ -17,6 +17,7 @@
   "message": "Message",
   "select": "Sélectionner",
   "command": "Commande",
-  "autocomment": "Commentaire automatique"
+  "autocomment": "Commentaire automatique",
+  "moderation": "Modération"
   
 }
