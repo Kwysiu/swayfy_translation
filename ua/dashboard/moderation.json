@@ -14,7 +14,7 @@
   "actionnotpermited": "Дія заборонена!",
   "mute": "Вимкнути звук",
   "forcereason": "Примусова причина",
-  "defaultreaso": "Причина за замовчуванням",
+  "defaultreason": "Причина за замовчуванням",
   "defaultdurationminutes": "Причина за замовчуванням (хвилини)",
   "allowedroles": "Дозволені ролі",
   "immuneroles": "Імунні ролі",
