@@ -20,5 +20,8 @@
     "account": "Cuenta",
     "balance": "Balance",
     "addfunds": "Agregar fondos",
-    "api": "API"
+    "api": "API",
+    "total": "Total",
+    "documentation": "documentación",
+    "settingsview": "Vista de configuración"
 }
