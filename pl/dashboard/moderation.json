@@ -14,7 +14,7 @@
   "actionnotpermited": "Akcja niedozwolona!",
   "mute": "Wyciszenie",
   "forcereason": "Wymuś podanie powodu",
-  "defaultreaso": "Powód domyślny",
+  "defaultreason": "Powód domyślny",
   "defaultdurationminutes": "Pomyślny powód (minuty)",
   "allowedroles": "Zezwolone role",
   "immuneroles": "Role z immunitetem",
