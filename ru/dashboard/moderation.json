@@ -14,7 +14,7 @@
   "actionnotpermited": "Действие не разрешено!",
   "mute": "Немой",
   "forcereason": "Принудительная причина",
-  "defaultreaso": "Причина по умолчанию",
+  "defaultreason": "Причина по умолчанию",
   "defaultdurationminutes": "Причина по умолчанию (минуты)",
   "allowedroles": "Разрешенные роли",
   "immuneroles": "Иммунные роли",
