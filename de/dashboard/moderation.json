@@ -14,7 +14,7 @@
   "actionnotpermited": "Nicht erlaubte Aktion!",
   "mute": "Stumm",
   "forcereason": "Grund erzwingen",
-  "defaultreaso": "Standardgrund",
+  "defaultreason": "Standardgrund",
   "defaultdurationminutes": "Standardgrund (Minuten)",
   "allowedroles": "Zulässige Rollen",
   "immuneroles": "Immunrollen",
