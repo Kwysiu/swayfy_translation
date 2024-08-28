@@ -14,7 +14,7 @@
   "actionnotpermited": "Eyleme izin verilmiyor!",
   "mute": "Sesini kapatmak",
   "forcereason": "Zorlama nedeni",
-  "defaultreaso": "Varsayılan neden",
+  "defaultreason": "Varsayılan neden",
   "defaultdurationminutes": "Varsayılan neden (dakika)",
   "allowedroles": "İzin verilen roller",
   "immuneroles": "Bağışıklık rolleri",
