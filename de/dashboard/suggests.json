@@ -18,6 +18,16 @@
   "select": "Wählen",
   "command": "Befehl",
   "autocomment": "Automatischer Kommentar",
-  "moderation": "Mäßigung"
+  "moderation": "Mäßigung",
+  "overview": "Übersicht",
+  "levelv": "Level",
+  "suggests": "Vorschläge",
+  "moderation": "Mäßigung",
+  "logs": "Protokolles",
+  "website": "Website",
+  "channel": "Kanal",
+  "postmethod": "Post-Methode",
+  "autocomment": "Automatischer Kommentar",
+  "command": "Befehl"
   
 }
