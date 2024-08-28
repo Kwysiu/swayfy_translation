@@ -20,5 +20,6 @@
     "logs": "Logs",
     "levelupchannel": "Levelup channel",
     "suggests": "Suggests",
-    "moderation": "Moderation"
+    "moderation": "Moderation",
+    "none": "None"
 }
