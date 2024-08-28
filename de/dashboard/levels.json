@@ -20,5 +20,6 @@
     "logs": "Protokolles",
     "levelupchannel": "Neuer Levelkanal",
     "suggests": "Vorschläge",
-    "moderation": "Mäßigung"
+    "moderation": "Mäßigung",
+    "none": "Keiner"
 }
