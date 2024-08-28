@@ -16,6 +16,8 @@
 | [es](/es) | Español   | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema)  |
 | [ua](/ua) | Українська| @mr.negative4696 |                     n/a                           |
 | [tr](/tr) | Türkçe    | @zonax           | [@xartew](https://github.com/xartew)              |
+| [ru](/ru) | Русский   | @3wus            | [@3wus](https://github.com/3wus)                  |
+| [fr](/fr) | Français  | @3wus            | [@3wus](https://github.com/3wus)                  |
 
 
 | Coordinator | @oli11gh & @3wus |
