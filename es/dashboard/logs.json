@@ -20,5 +20,13 @@
     "invites": "Invita",
     "suggests": "Sugerencias",
     "moderation": "Moderación",
-    "users": "Miembros"
+    "users": "Miembros",
+    "overview": "Resumen",
+    "dashboard": "Tablero",
+    "levels": "Niveles",
+    "suggests": "Sugerencias",
+    "logs": "Registros",
+    "website": "Sitio Web",
+    "selectachannel": "Seleccione un canal",
+    "server": "Servidor"
 }
