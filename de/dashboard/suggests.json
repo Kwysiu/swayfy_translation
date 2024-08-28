@@ -9,7 +9,7 @@
   "connectedtows": "Verbunden mit Websocket",
   "actionnotpermited": "Nicht erlaubte Aktion!",
   "website": "Website",
-  "logs": "Protokolles"
+  "logs": "Protokolles",
   "suggestions": "Vorschläge",
   "channel": "Kanal",
   "selectachannel": "Kanal auswählen",
@@ -20,7 +20,7 @@
   "autocomment": "Automatischer Kommentar",
   "moderation": "Mäßigung",
   "overview": "Übersicht",
-  "levelv": "Level",
+  "level": "Level",
   "suggests": "Vorschläge",
   "moderation": "Mäßigung",
   "logs": "Protokolles",
