@@ -20,5 +20,6 @@
     "logs": "Kayıtlar",
     "levelupchannel": "Yeni seviye kanalı",
     "suggests": "Öneriler",
-    "moderation": "Moderasyon"
+    "moderation": "Moderasyon",
+    "none": "hiçbiri"
 }
