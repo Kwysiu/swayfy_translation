@@ -20,5 +20,8 @@
     "account": "Hesap",
     "balance": "Denge",
     "addfunds": "Para ekle",
-    "api": "API"
+    "api": "API",
+    "total": "Toplam",
+    "documentation": "Dokümantasyon",
+    "settingsview" : "Ayarlar görünümü"
 }
