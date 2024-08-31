@@ -20,5 +20,8 @@
     "account": "Обліковий запис",
     "balance": "Баланс",
     "addfunds": "Додайте кошти",
-    "api": "API"
+    "api": "API",
+    "total": "Всього",
+    "documentation": "Документація",
+    "settingsview": "Перегляд налаштувань"
 }
