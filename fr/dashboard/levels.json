@@ -20,5 +20,6 @@
     "logs": "Journaux",
     "levelupchannel": "Canal de mise à niveau",
     "suggests": "Suggère",
-    "moderation": "Modération"
+    "moderation": "Modération",
+    "none": "aucun"
 }
