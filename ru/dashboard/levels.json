@@ -20,5 +20,6 @@
     "logs": "Журналы",
     "levelupchannel": "Канал повышения уровня",
     "suggests": "Предлагает",
-    "moderation": "Модерация"
+    "moderation": "Модерация",
+    "none": "никто"
 }
