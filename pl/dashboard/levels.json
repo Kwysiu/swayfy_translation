@@ -20,5 +20,6 @@
     "logs": "Logi",
     "levelupchannel": "Kanał nowego poziomu",
     "suggests": "Sugestie",
-    "moderation": "Moderacja"
+    "moderation": "Moderacja",
+    "none": "żaden"
 }
